@@ -6,6 +6,8 @@ All notable changes to `z-api-php-sdk` will be documented in this file.
 
 ### What's Changed
 
+* Support Laravel 13
+* Require Saloon 4, which fixes CVE-2026-33942, CVE-2026-33182 and CVE-2026-33183
 * build(deps): bump dependabot/fetch-metadata from 2.3.0 to 2.4.0 by @dependabot[bot] in https://github.com/saade/z-api-php-sdk/pull/1
 * build(deps): bump aglipanci/laravel-pint-action from 2.5 to 2.6 by @dependabot[bot] in https://github.com/saade/z-api-php-sdk/pull/3
 * build(deps): bump dependabot/fetch-metadata from 2.4.0 to 2.5.0 by @dependabot[bot] in https://github.com/saade/z-api-php-sdk/pull/7
